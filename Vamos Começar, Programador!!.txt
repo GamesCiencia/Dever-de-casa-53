@@ -1,0 +1,61 @@
+Vamos Começar, Programador!!
+
+Preencha o Documento Abaixo
+
+___________________________________________________________________
+
+1). Qual das opções a seguir é uma Linguagem Imperativa?
+
+1. HTML
+
+2. CSS
+
+3. Javascript
+
+R: A Javascript.
+
+2). Qual das opções a seguir é uma Linguagem Declarativa?
+
+1. HTML
+
+2. CSS
+
+3. Javascript
+
+R: A CSS.
+
+3). Cite dois usos da tag DIV.
+
+R: A tag DIV pode ser usada tanto para organizar as linhas de código, como colocar estilos usando CSS.
+
+4). Qual é a diferença entre posicionamento relativo e posicionamento absoluto em HTML?
+
+R: A diferença está no ponto de referência.
+
+5). Qual a utilidade da opacity (opacidade) no CSS?
+
+R: Controlar a opacidade dos elementos.
+
+6). Qual é a linguagem de programação usada no framework do React Native?
+
+R: A Javascript.
+
+7). Qual editor online estamos usando para criar nossos aplicativos no framework do React Native?
+
+R: O EXPO
+
+8). Escreva os passos para testar seu primeiro aplicativo projetado no editor online no celular.
+
+R: Importar os elementos, escrever(programar) as linhas de código e por último, abrir a câmera do celular, ler o QR code e testar.
+
+9). Qual é a utilidade da função render no framework do React Native?
+
+R: A função render no React Native é responsável por retornar um elemento React que representa o que deve ser exibido na tela.
+
+10). Qual é a utilidade da função return no framework do React Native?
+
+R: A função do return é devolver um valor que é o produto da função, e com isto interrompe o resto do processamento da função.
+
+11. Quais são os vários componentes do primeiro aplicativo que você projetou?
+
+R: View, Text, TouchableOpacity, StyleSheet, TextInput, Image, entre outros...
